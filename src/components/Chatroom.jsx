@@ -4,7 +4,7 @@ import Chatbubbles from './Chatbubbles'
 import Sendmessages from './Sendmessages'
 const Chatroom = () => {
   return (
-    <div  className='bg-neutral-800 h-screen'>
+    <div  className=' '>
         <Navbar/>
         <Chatbubbles/>
         <Sendmessages/>
